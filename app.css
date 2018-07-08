@@ -1,0 +1,28 @@
+h1 {
+	color: #000000; /*black*/
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px solid purple;
+}
+
+/*width
+color
+style*/
+
+li {
+	color: #4B0082; /*purple*/
+}
+
+h4{
+	background: rgb(255,100,00);
+	/*color: #FF1493; /*Pink*/*/
+}
+
+body {
+	background: pink;
+/*	background: url(https://www.babybedding.com/images/fabric/gray-woodgrain-fabric_large.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
